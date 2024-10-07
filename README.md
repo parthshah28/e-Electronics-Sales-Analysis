@@ -2,7 +2,7 @@
 
 e-Electronics is an e-commerce company that sells popular electronics to customers worldwide, having sold more than 100K orders since its inception in 2019. I performed an exploratory analysis of their under-utilized core marketing data to investigate yearly sales trends, product performance, marketing channel performance, and loyalty program efficacy for presentation to cross-functional teams and to drive company recommendations.
 
-The SQL scripts and entity relation diagram (ERD) can be found [here](https://github.com/astrosica/data-science-portfolio/blob/main/Reporting%20and%20Dashboards/e-Commerce%20Marketing%20Analysis/sql_analysis). The Excel workbook can be found [here](https://github.com/astrosica/data-science-portfolio/blob/main/Reporting%20and%20Dashboards/e-Commerce%20Marketing%20Analysis/excel_workbook).
+The SQL scripts and entity relation diagram (ERD) can be found [here](https://github.com/parthshah28/e-Electronics-Sales-Analysis/blob/main/sql-analysis/sql-analysis.sql).
 
 ### **Interactive Tableau Dashboard**
 
