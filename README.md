@@ -8,7 +8,7 @@ The SQL scripts and entity relation diagram (ERD) can be found [here](https://g
 
 The interactive dashboard can be found in Tableau Public [here](https://public.tableau.com/views/e-ElectronicsSalesDashboard/Dashboard?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link). This dashboard enables users to filter by customer region, country, and country code, focusing on sales and marketing metrics.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/55deb0ad-8acd-4b62-88a5-1deae62b7138/f3c05259-ffd9-434e-82f2-87e4ba06334f/image.png)
+![image.png](https://github.com/parthshah28/e-Electronics-Sales-Analysis/blob/main/docs/image%20(2).png)
 
 ### **Summary of Insights**
 
@@ -18,7 +18,7 @@ The interactive dashboard can be found in Tableau Public [here](https://public.
 
 **Product performance:** The Apple AirPods Headphones were consistently the most popular product, with 48K sales for a total revenue of $7.7 million. The 27in 4K Gaming Monitor consistently brought in the most revenue for a total of $9.9 million over 23K sales. In contrast, the Bose Soundsport Headphones were consistently the least popular product, bringing a total revenue of $3.3K over 27 sales.
 
-![image.png](https://prod-files-secure.s3.us-west-2.amazonaws.com/55deb0ad-8acd-4b62-88a5-1deae62b7138/0d860dd1-0ab5-4013-967b-a436e9cbf7d8/image.png)
+![image.png](https://github.com/parthshah28/e-Electronics-Sales-Analysis/blob/main/docs/image%20(1).png)
 
 **Product performance by region:** The AirPods Headphones are the most popular product across all regions, having sold 18,574 items ($3.1 million) in NA, 11,227 items ($1.7 million) in EMEA, 4,226 items ($0.6 million) in APAC, and 1,911 items ($0.3 million) in LATAM.
 
